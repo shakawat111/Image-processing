@@ -1,1 +1,3 @@
-Properties of image histograms
+Properties Of Histograms   (Equalization)
+Defination Of Histogram Equalization
+CDF Function 
