@@ -1,3 +1,4 @@
 Properties Of Histograms   (Equalization)
 Defination Of Histogram Equalization
 CDF Function 
+Histogram Equalization
